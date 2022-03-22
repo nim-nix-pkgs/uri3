@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-uri3-0_1_4.flake = false;
+  inputs.src-uri3-0_1_4.ref   = "refs/tags/0.1.4";
   inputs.src-uri3-0_1_4.owner = "zendbit";
-  inputs.src-uri3-0_1_4.ref   = "0_1_4";
   inputs.src-uri3-0_1_4.repo  = "nim.uri3";
   inputs.src-uri3-0_1_4.type  = "github";
   
