@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-uri3-master": "src-uri3-master"
+        "src-uri3-v0_1_7": "src-uri3-v0_1_7"
       }
     },
-    "src-uri3-master": {
+    "src-uri3-v0_1_7": {
       "flake": false,
       "locked": {
         "lastModified": 1661680022,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "zendbit",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.1.7",
         "repo": "nim.uri3",
         "type": "github"
       }
